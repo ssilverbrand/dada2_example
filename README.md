@@ -2,7 +2,7 @@
 
 ## Instructions
 
-You are going to **fork** this repo to your personal github account (**not* the *fundamentals-eDNA* account).  Here's how:
+You are going to **fork** this repo to your personal github account (**not** the *fundamentals-eDNA* account).  Here's how:
 
 - click the fork button (top right corner)
 - when prompted, select your personal account
