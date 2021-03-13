@@ -4,7 +4,7 @@
 
 You are going to **fork** this repo to your personal github account (**not** the *fundamentals-eDNA* account).  Here's how:
 
-- click the fork ![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png){:height="25%"} button (top right corner)
+- click the fork ![](https://upload.wikimedia.org/wikipedia/commons/3/38/GitHub_Fork_Button.png | height=10) button (top right corner)
 - when prompted, select your personal account
 - that's it!
 
